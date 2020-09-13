@@ -1,3 +1,4 @@
-Some data preprocessing and several supervised learning techniques including random forest, neural network, support vector classifier and extreme gradient boosting to identify potential unhappy customers.  
+This was a [Kaggle competition](https://www.kaggle.com/c/santander-customer-satisfaction). 
+I implemented some data preprocessing steps and several supervised learning techniques -- random forest, neural network, support vector classifier and extreme gradient boosting to identify potential unhappy customers for Santander Bank.  
 
-To view the entire project, please click [here](https://ngtunlee.github.io/customer_satisfaction/)
+To view detailed workflow of the entire project, please click [here](https://ngtunlee.github.io/customer_satisfaction/)
